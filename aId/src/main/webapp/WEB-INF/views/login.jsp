@@ -6,9 +6,17 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<style>
+body {
+	background: #808080 url(C:/Users/Ирина/Desktop/Олег/eclipse/aId/images/mountain.jpg);
+	color: #000; 
+	background-attachment: fixed;
+	background-repeat: repeat-x;
+	background-size: 100%;
+}
+</style>
 </head>
 <body>
-
 
 
 	<div align="center" style="padding-top: 10%">

@@ -1,7 +1,7 @@
 package models;
 
 public class UserData {
-
+	public static final int ADMIN_ROLE = 5;
 	private int idUser;
 	private String firstName;
 	private String lastName;
